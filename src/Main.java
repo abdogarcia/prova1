@@ -25,5 +25,6 @@ public class Main {
         System.out.println(pep("Abdó", 54));
         Alumne alu = new Alumne("pep", 10);
         Alumne a1 = new Alumne("pepet");
+        System.out.println("ojo2");
     }
 }
