@@ -18,7 +18,7 @@ public class Alumne {
         this.nom = nom;
     }
 
-    Alumne(String nom) {
+    public Alumne(String nom) {
         this.nom = nom;
     }
 }
